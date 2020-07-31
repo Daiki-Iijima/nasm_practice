@@ -1,0 +1,7 @@
+dw 0x1234
+dw 0x5678
+
+ALIGN 4
+dw 0x1234
+ALIGN 4
+dw 0x5678
